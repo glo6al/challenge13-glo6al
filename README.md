@@ -1,6 +1,6 @@
 ## Repository URL: https://github.com/glo6al/challenge13-glo6al.git
 
-## Video Walkthrough:
+## Video Walkthrough: https://drive.google.com/file/d/1ScJsUuN_MYu7L5I5du5mQig1l8C4BrGO/view
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -13,6 +13,8 @@
 - [Installation Instructions](#installation-instructions)
 
 - [Usage Instructions](#usage-instructions)
+
+- [Demo](#demo)
 
 - [License](#license)
 
@@ -43,6 +45,12 @@ DB_PASS=password
 ```
 
 To start the application, run `npm start` in the terminal. The application will be running on `http://localhost:3001/`.
+
+## Demo
+
+To see a demonstration of the application, visit:
+
+https://drive.google.com/file/d/1ScJsUuN_MYu7L5I5du5mQig1l8C4BrGO/view
 
 ## How to Contribute
 
