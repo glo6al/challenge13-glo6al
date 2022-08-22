@@ -72,7 +72,7 @@ If you would like to contribute to this project, please follow these steps:
 
 MIT
 
-## Contact:
+## Contact Me:
 
 - GitHub: https://github.com/glo6al
 
