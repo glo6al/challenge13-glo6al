@@ -50,7 +50,7 @@ To start the application, run `npm start` in the terminal. The application will 
 
 To see a demonstration of the application, visit:
 
-https://drive.google.com/file/d/1ScJsUuN_MYu7L5I5du5mQig1l8C4BrGO/view
+https://drive.google.com/file/d/1X_MCNcxzlsXM4SHpTMACF-1oBe_8n01C/view?usp=sharing
 
 ## How to Contribute
 
@@ -72,7 +72,7 @@ If you would like to contribute to this project, please follow these steps:
 
 MIT
 
-## Contact Me:
+## Contact:
 
 - GitHub: https://github.com/glo6al
 
