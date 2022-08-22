@@ -1,6 +1,6 @@
 ## Repository URL: https://github.com/glo6al/challenge13-glo6al.git
 
-## Video Walkthrough: https://drive.google.com/file/d/1ScJsUuN_MYu7L5I5du5mQig1l8C4BrGO/view
+## Video Walkthrough: https://drive.google.com/file/d/1X_MCNcxzlsXM4SHpTMACF-1oBe_8n01C/view?usp=sharing
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
